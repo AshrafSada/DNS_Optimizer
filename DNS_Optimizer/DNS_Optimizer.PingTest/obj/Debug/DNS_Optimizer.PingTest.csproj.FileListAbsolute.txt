@@ -1,0 +1,13 @@
+E:\Yamar_Projects\GitHub_Repos\DNS_Optimizer\DNS_Optimizer\DNS_Optimizer.PingTest\bin\Debug\DNS_Optimizer.PingTest.exe.config
+E:\Yamar_Projects\GitHub_Repos\DNS_Optimizer\DNS_Optimizer\DNS_Optimizer.PingTest\bin\Debug\DNS_Optimizer.PingTest.exe
+E:\Yamar_Projects\GitHub_Repos\DNS_Optimizer\DNS_Optimizer\DNS_Optimizer.PingTest\bin\Debug\DNS_Optimizer.PingTest.pdb
+E:\Yamar_Projects\GitHub_Repos\DNS_Optimizer\DNS_Optimizer\DNS_Optimizer.PingTest\obj\Debug\DNS_Optimizer.PingTest.csproj.CoreCompileInputs.cache
+E:\Yamar_Projects\GitHub_Repos\DNS_Optimizer\DNS_Optimizer\DNS_Optimizer.PingTest\obj\Debug\DNS_Optimizer.PingTest.exe
+E:\Yamar_Projects\GitHub_Repos\DNS_Optimizer\DNS_Optimizer\DNS_Optimizer.PingTest\obj\Debug\DNS_Optimizer.PingTest.pdb
+E:\Open_Source\DNS_Optimizer\DNS_Optimizer.PingTest\bin\Debug\DNS_Optimizer.PingTest.exe.config
+E:\Open_Source\DNS_Optimizer\DNS_Optimizer.PingTest\bin\Debug\DNS_Optimizer.PingTest.exe
+E:\Open_Source\DNS_Optimizer\DNS_Optimizer.PingTest\bin\Debug\DNS_Optimizer.PingTest.pdb
+E:\Open_Source\DNS_Optimizer\DNS_Optimizer.PingTest\obj\Debug\DNS_Optimizer.PingTest.csprojAssemblyReference.cache
+E:\Open_Source\DNS_Optimizer\DNS_Optimizer.PingTest\obj\Debug\DNS_Optimizer.PingTest.csproj.CoreCompileInputs.cache
+E:\Open_Source\DNS_Optimizer\DNS_Optimizer.PingTest\obj\Debug\DNS_Optimizer.PingTest.exe
+E:\Open_Source\DNS_Optimizer\DNS_Optimizer.PingTest\obj\Debug\DNS_Optimizer.PingTest.pdb

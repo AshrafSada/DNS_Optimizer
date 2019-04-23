@@ -1,0 +1,72 @@
+DNS Server IP = 8.8.8.8
+DNS Server Buffer Size = 32
+DNS Server TTL = 116
+DNS Server RTT = 98 ms
+DNS Server Test Result = Success 
+
+DNS Server IP = 8.8.4.4
+DNS Server Buffer Size = 32
+DNS Server TTL = 116
+DNS Server RTT = 95 ms
+DNS Server Test Result = Success 
+
+DNS Server IP = 9.9.9.9
+DNS Server Buffer Size = 32
+DNS Server TTL = 55
+DNS Server RTT = 82 ms
+DNS Server Test Result = Success 
+
+DNS Server IP = 149.112.112.112
+DNS Server Buffer Size = 32
+DNS Server TTL = 55
+DNS Server RTT = 85 ms
+DNS Server Test Result = Success 
+
+DNS Server IP = 208.67.222.222
+DNS Server Buffer Size = 32
+DNS Server TTL = 56
+DNS Server RTT = 83 ms
+DNS Server Test Result = Success 
+
+DNS Server IP = 208.67.220.220
+DNS Server Buffer Size = 32
+DNS Server TTL = 56
+DNS Server RTT = 84 ms
+DNS Server Test Result = Success 
+
+DNS Server IP = 1.1.1.1
+DNS Server Buffer Size = 32
+DNS Server TTL = 54
+DNS Server RTT = 79 ms
+DNS Server Test Result = Success 
+
+DNS Server IP = 1.0.0.1
+DNS Server Buffer Size = 32
+DNS Server TTL = 54
+DNS Server RTT = 76 ms
+DNS Server Test Result = Success 
+
+DNS Server IP = 185.228.168.9
+DNS Server Buffer Size = 32
+DNS Server TTL = 49
+DNS Server RTT = 82 ms
+DNS Server Test Result = Success 
+
+DNS Server IP = 64.6.64.6
+DNS Server Buffer Size = 32
+DNS Server TTL = 52
+DNS Server RTT = 89 ms
+DNS Server Test Result = Success 
+
+DNS Server IP = 198.101.242.72
+DNS Server Buffer Size = 32
+DNS Server TTL = 109
+DNS Server RTT = 195 ms
+DNS Server Test Result = Success 
+
+DNS Server IP = 176.103.130.130
+DNS Server Buffer Size = 32
+DNS Server TTL = 49
+DNS Server RTT = 76 ms
+DNS Server Test Result = Success 
+
